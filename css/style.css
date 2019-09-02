@@ -5,7 +5,7 @@
 }
 .pageContainer .gridContainer {
   display: grid;
-  width: 40%;
+  width: 300px;
   height: 300px;
   grid-template-rows: 1fr 1fr 1fr;
   grid-template-columns: 1fr 1fr 1fr;
@@ -20,7 +20,7 @@
 }
 .pageContainer .scoreContainer {
   display: flex;
-  width: calc(40% - 10px);
+  width: 300px;
   margin: 10px 0;
   justify-content: space-between;
 }
